@@ -1,5 +1,5 @@
-# cloudymapdev.github.io
-Cloudy's website!
+# shinycraft.github.io
+ShinyCraft's website!
 
 Feel free to contribute!
 
